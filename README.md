@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Sou+estudante+de+An%C3%A1lise+e+desenvolvimento+de+sistemas;Seja+bem+vindo!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Tenho+19+anos;Formada+em+t%C3%A9cnico+de+inform%C3%A1tica;Estou+atualmente+cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </div>
 
 
@@ -29,11 +29,13 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  
+
 
  
   
