@@ -22,7 +22,7 @@
       
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mimidimas&show_icons=true&count_private=true&rank_icon=github&theme=radical&font=Iosevka"/>
-<img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimidimas&layout=compact&font=Iosevka&langs_count=16&theme=radical&hide=jupyter%20notebook&cache_bust=2"/>
+<img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimidimas&layout=compact&font=Iosevka&langs_count=16&theme=radical&hide=jupyter%20notebook&cache_bust=1"/>
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mimidimas&theme=radical"/>
