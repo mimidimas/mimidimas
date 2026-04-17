@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Tenho+19+anos;Formada+em+t%C3%A9cnico+de+inform%C3%A1tica;Estou+atualmente+cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Tenho+20+anos;Formada+em+t%C3%A9cnico+de+inform%C3%A1tica;Estou+atualmente+cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </div>
 
 
